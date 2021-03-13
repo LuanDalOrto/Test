@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <link rel=“stylesheet” type=“text/css” href=“3h2gol.css”, "3z7d0z.css","14iglg.css","42e5o5.css", "467543.css","lab8xti.css"/>
+    <link rel=“stylesheet” type=“text/css” href=“style.css"/>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
